@@ -1,0 +1,14 @@
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\bin\Debug\net9.0\weatherSim.exe
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\bin\Debug\net9.0\weatherSim.deps.json
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\bin\Debug\net9.0\weatherSim.runtimeconfig.json
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\bin\Debug\net9.0\weatherSim.dll
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\bin\Debug\net9.0\weatherSim.pdb
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\weatherSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\weatherSim.AssemblyInfoInputs.cache
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\weatherSim.AssemblyInfo.cs
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\weatherSim.csproj.CoreCompileInputs.cache
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\weatherSim.dll
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\refint\weatherSim.dll
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\weatherSim.pdb
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\weatherSim.genruntimeconfig.cache
+C:\Users\Instruktor\Documents\Assignments\Weather-sim-csharp\weatherSim\obj\Debug\net9.0\ref\weatherSim.dll
